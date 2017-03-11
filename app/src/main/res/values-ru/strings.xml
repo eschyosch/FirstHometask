@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FirstHometask</string>
-    <string name="button">Изменить</string>
+    <string name="button">Редактировать</string>
     <string name="init_text">Выберите дату</string>
     <string name="last_name">Фамилия</string>
     <string name="first_name">Имя</string>
